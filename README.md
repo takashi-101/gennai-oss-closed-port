@@ -160,11 +160,13 @@ flowchart LR
 
 ## 根拠（学習）
 
-| 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先（Credly） |
-|---|---|---|
-| 起動する部品（コンテナ）を19個から13個に絞った構成 | Amazon Web Services Training and Certification「AWS Knowledge: Amazon ECS - Training Badge」2025年11月12日 | https://www.credly.com/badges/b73f91ba-c58c-42ce-a05a-c8909e4a4354 |
-| 文書検索（埋め込みモデル） | Coursera（認定：IBM）「Vector Databases for RAG: An Introduction」2026年11月1日 | https://www.credly.com/badges/b84b95a1-f143-467e-af35-7221f0c9ab2b |
-| 3Bと7Bのモデルの比較 | Coursera（認定：IBM）「Generative AI and LLMs: Architecture and Data Preparation」2026年11月1日 | https://www.credly.com/badges/d18319e6-bcc1-480e-ac79-09744b9d41aa |
+| 求められる力 | 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先（Credly） |
+|---|---|---|---|
+| クラウドと閉域の基盤 | 起動する部品（コンテナ）を19個から13個に絞った構成 | Amazon Web Services Training and Certification「AWS Knowledge: Amazon ECS - Training Badge」2025年11月12日 | https://www.credly.com/badges/b73f91ba-c58c-42ce-a05a-c8909e4a4354 |
+| 生成AI・LLMの実装（RAG・エージェント・MCP） | 文書検索（埋め込みモデル） | Coursera（認定：IBM）「Vector Databases for RAG: An Introduction」2026年11月1日 | https://www.credly.com/badges/b84b95a1-f143-467e-af35-7221f0c9ab2b |
+| 生成AI・LLMの実装（RAG・エージェント・MCP） | 3Bと7Bのモデルの比較 | Coursera（認定：IBM）「Generative AI and LLMs: Architecture and Data Preparation」2026年11月1日 | https://www.credly.com/badges/d18319e6-bcc1-480e-ac79-09744b9d41aa |
+
+「求められる力」の分け方は、[プロフィール](https://github.com/takashi-101) の「FDE・AXで求められる力と、その根拠」と同じです。
 
 ## ライセンス
 
